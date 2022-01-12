@@ -36,7 +36,14 @@
 // gameLevel = 5;
 // alert("Your currently level is " + gameLevel);
 
-var message = "Hello";
-var myName = "Salman";
+// var message = "Hello";
+// var myName = "Salman";
 
-alert(message + " There," + " " + myName);
+// alert(message + " There," + " " + myName);
+
+var myName =  "Muhammad Salman";
+myName.length;
+
+var tweet = prompt("Compose your tweet");
+var tweetCount = tweet.length;
+alert("Your have written " + tweetCount + " " + "Characters, you have " + (50- tweetCount) + "remaining character.");
