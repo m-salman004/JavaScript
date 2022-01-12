@@ -13,5 +13,25 @@
 // alert(2+3);
 // typeof (check data types)
 
-prompt("What is your name?");
+// prompt("What is your name?");
 
+// Variable (var)
+
+var myName = "Muhammad Salman";
+console.log(myName);
+alert(myName);
+
+var myCity = "Faisalabad";
+console.log(myCity);
+alert(myCity);
+
+var yourName = prompt("What is your Father's Name?");
+console.log(yourName);
+alert("My Name is"  +  myName  + "Welcome to My Home" + yourName + "!");
+
+var gameLevel = 1;
+gameLevel = 2;
+gameLevel = 3;
+gameLevel = 4;
+gameLevel = 5;
+alert("Your currently level is " + gameLevel);
