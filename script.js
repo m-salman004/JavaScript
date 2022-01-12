@@ -10,5 +10,8 @@
 // Boolean
 //     ture  false
 
-alert(2+3);
-typeof (check data types)
+// alert(2+3);
+// typeof (check data types)
+
+prompt("What is your name?");
+
