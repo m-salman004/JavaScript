@@ -51,9 +51,13 @@
 01-12-2022
 
 // Slice
-var yourName = "Salman";
-yourName.slice(0,1);
+// var yourName = "Salman";
+// yourName.slice(0,1);
 
-var tweet = prompt("Compose your Tweet:");
-var tweetUnder10 = tweet.slice(0,10);
-alert(tweetUnder10);
+// var tweet = prompt("Compose your Tweet:");
+// var tweetUnder10 = tweet.slice(0,10);
+// alert(tweetUnder10);
+
+// toUpperCase and toLowerCase
+var myName = "salman";
+myName.toUpperCase();
