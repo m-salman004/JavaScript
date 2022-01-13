@@ -61,3 +61,4 @@
 // toUpperCase and toLowerCase
 var myName = "salman";
 myName.toUpperCase();
+myName.toLowerCase();
